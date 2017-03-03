@@ -8,7 +8,7 @@
             "email": "cheran.chandran@tesark.in"
         }
     ],
-    "minimum-stability": "dev-master",
+    "minimum-stability": "stable",
     "require": {},
     
     "autoload": {
